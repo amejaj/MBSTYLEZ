@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Glam Makeup Session",
+    "description": "Full-face glam with lashes included. Ideal for events and photoshoots.",
+    "price": 105.00
+  },
+  {
+    "name": "Natural Beat",
+    "description": "Soft, natural makeup application for everyday elegance.",
+    "price": 80.00
+  },
+  {
+    "name": "Lace Front Wig Install",
+    "description": "Professional installation and styling of lace front wigs.",
+    "price": 180.00
+  },
+  {
+    "name": "Silk Press",
+    "description": "Smooth and shine—silk press for natural hair with heat protectants.",
+    "price": 85.00
+  },
+  {
+    "name": "Brow Sculpt & Tint",
+    "description": "Shape, define, and enhance your natural brows.",
+    "price": 38.00
+  },
+  {
+    "name": "Lip Gloss Collection",
+    "description": "MBSTYLEZ signature high-shine, long-lasting glosses (set of 3 shades).",
+    "price": 25.00
+  },
+  {
+    "name": "Hair Growth Oil",
+    "description": "All-natural oil blend to nourish your scalp and support hair growth.",
+    "price": 18.00
+  }
+]

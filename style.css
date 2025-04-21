@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffe6f0;
+}
+.navbar, footer {
+    background-color: #800080 !important;
+}
+header {
+    background: linear-gradient(90deg, #ff69b4, #dda0dd);
+}
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+.btn-dark {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+.btn-dark:hover {
+    background-color: #c71585;
+    border-color: #c71585;
+}
